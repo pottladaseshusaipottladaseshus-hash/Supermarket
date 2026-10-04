@@ -1,0 +1,13 @@
+InvoiceID,Date,Product,Category,Quantity,UnitPrice,TotalSales
+INV001,2026-01-05,Milk,Grocery,2,40,80
+INV002,2026-01-06,Bread,Grocery,3,30,90
+INV003,2026-01-06,Rice,Grocery,2,65,130
+INV004,2026-01-08,Shampoo,Personal Care,1,120,120
+INV005,2026-01-10,Biscuits,Grocery,5,20,100
+INV006,2026-01-12,Milk,Grocery,4,40,160
+INV007,2026-01-14,Rice,Grocery,3,65,195
+INV008,2026-01-15,Soap,Personal Care,2,35,70
+INV009,2026-01-18,Bread,Grocery,4,30,120
+INV010,2026-01-20,Shampoo,Personal Care,2,120,240
+INV011,2026-01-22,Biscuits,Grocery,6,20,120
+INV012,2026-01-25,Rice,Grocery,5,65,325
